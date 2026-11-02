@@ -1,0 +1,26 @@
+# Entorns virtuals
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Base de dades local
+db.sqlite3
+db.sqlite3-journal
+
+# Variables i secrets
+.env
+.env.*
+
+# Editors
+.vscode/
+.idea/
+
+# Fitxers temporals
+*.log
+*.swp
+
+# Arxius estàtics generats
+staticfiles/
